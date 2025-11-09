@@ -18,4 +18,3 @@ This project implements an industrial-grade liquid level control system for a co
 - ✅ PWM pump control
 - ✅ Remote parameter tuning
 
-## 🛠️ System Architecture
